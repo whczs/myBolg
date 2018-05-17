@@ -27,3 +27,4 @@ alert("Hello world!");
 }, false);
 ```
 * IE事件处理程序
+attchEvent与detachEvent
